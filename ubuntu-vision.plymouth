@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=ubuntu-vision
-Description=A theme that features the Ubuntu logo.
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/ubuntu-vision
-ScriptFile=/usr/share/plymouth/themes/ubuntu-vision/ubuntu-vision.script

@@ -1,12 +1,12 @@
 #!/bin/bash
 #Note: No guarantee that this theme will be seen correctly at all screen resolutions available
-#execute only from within the ubuntu-vision folder!
+#execute only from within the floflis-plymouth folder!
 
-sudo mkdir /usr/share/plymouth/themes/ubuntu-vision
+sudo mkdir /usr/share/plymouth/themes/floflis-plymouth
 clear
-sudo rsync -aq --exclude=install-ubuntu-vision * /usr/share/plymouth/themes/ubuntu-vision/
+sudo rsync -aq --exclude=install.sh * /usr/share/plymouth/themes/floflis-plymouth/
 clear
-sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/ubuntu-vision/ubuntu-vision.plymouth 100
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/floflis-plymouth/floflis-plymouth.plymouth 100
 sudo update-alternatives --config default.plymouth  #here, choose the number of the theme you want to use then hit enter
 sudo update-initramfs -u
 echo

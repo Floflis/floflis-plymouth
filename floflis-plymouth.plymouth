@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=floflis-plymouth
+Description=A theme that features the Floflis colored logotype in a yellow background.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/floflis-plymouth
+ScriptFile=/usr/share/plymouth/themes/floflis-plymouth/floflis-plymouth.script
