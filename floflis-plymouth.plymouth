@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=Ubuntu Cinnamon Spinner
-Description=A theme designed by jimmac that features a simple spinner. Forked by ItzSwirlz for Ubuntu Cinnamon Remix.
+Name=Floflis Plymouth
+Description=A theme designed by jimmac that features a simple spinner. Forked by ItzSwirlz for Ubuntu Cinnamon Remix, then forked by DaniMesq for FloflisOS.
 ModuleName=two-step
 
 [two-step]
 Font=Ubuntu 9
 TitleFont=Ubuntu Bold 10
-ImageDir=/usr/share/plymouth/themes/ubuntucinnamon-spinner
+ImageDir=/usr/share/plymouth/themes/floflis-plymouth
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.382
 TitleHorizontalAlignment=.5
@@ -17,10 +17,10 @@ WatermarkHorizontalAlignment=.5
 WatermarkVerticalAlignment=.96
 Transition=none
 TransitionDuration=0.0
-BackgroundStartColor=0x000000
-BackgroundEndColor=0x000000
-ProgressBarBackgroundColor=0x606060
-ProgressBarForegroundColor=0xffffff
+BackgroundStartColor=0xf6ca38
+BackgroundEndColor=0xf6ca38
+ProgressBarBackgroundColor=0x333333
+ProgressBarForegroundColor=0x000000
 DialogClearsFirmwareBackground=false
 MessageBelowAnimation=true
 

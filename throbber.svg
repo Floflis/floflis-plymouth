@@ -2,26 +2,62 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="12"
    height="12"
    viewBox="0 0 3.1749999 3.1749999"
    version="1.1"
    id="svg1722"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="throbber.svg"
    inkscape:export-filename="/home/frederik/plymouth/themes/spinner/animation01.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1716">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4806">
+      <stop
+         style="stop-color:#708fc5;stop-opacity:1;"
+         offset="0"
+         id="stop4802" />
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:0"
+         offset="1"
+         id="stop4804" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3348">
+      <stop
+         style="stop-color:#da4a37;stop-opacity:1;"
+         offset="0"
+         id="stop3344" />
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:0"
+         offset="1"
+         id="stop3346" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2616">
+      <stop
+         style="stop-color:#41b349;stop-opacity:1;"
+         offset="0"
+         id="stop2612" />
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:0"
+         offset="1"
+         id="stop2614" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5747"
@@ -906,7 +942,7 @@
        y2="89.196152" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5747"
+       xlink:href="#linearGradient2616"
        id="linearGradient3291"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2204839,0,0,0.22048801,-0.34008667,229.19089)"
@@ -916,7 +952,7 @@
        y2="84" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5747"
+       xlink:href="#linearGradient4806"
        id="linearGradient3293"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2204839,0,0,0.22048801,-0.34008667,229.19089)"
@@ -926,7 +962,7 @@
        y2="78.803848" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5747"
+       xlink:href="#linearGradient3348"
        id="linearGradient3295"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2204839,0,0,0.22048801,-0.34008667,229.19089)"
@@ -943,17 +979,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="7.0641614"
-     inkscape:cy="5.4152303"
+     inkscape:cx="7.0552841"
+     inkscape:cy="5.4295699"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3289"
+     inkscape:current-layer="g3287"
      showgrid="true"
      units="px"
      inkscape:window-width="1310"
-     inkscape:window-height="1016"
-     inkscape:window-x="584"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0">
+     inkscape:window-height="691"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#808080">
     <inkscape:grid
        type="xygrid"
        id="grid825" />
